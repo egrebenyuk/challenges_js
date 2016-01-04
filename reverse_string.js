@@ -9,3 +9,4 @@ function reverseString(str) {
 
 // Execution
 reverseString("Hello, world!");
+// Result: !dlrow ,olleH

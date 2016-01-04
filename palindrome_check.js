@@ -17,5 +17,10 @@ function palindrome(str) {
 
 // Execution
 palindrome("race car");
+// Result: true
+
 palindrome("never odd or even");
+// Result: true
+
 palindrome("0_0 (: /-\ :) 0-0");
+// Result: true

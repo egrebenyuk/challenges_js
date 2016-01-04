@@ -27,3 +27,4 @@ function factorialize(num) {
 
 // Execution
 factorialize(5);
+// Result: 120
